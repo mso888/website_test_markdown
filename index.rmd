@@ -1,0 +1,7 @@
+# Welcome to my Website
+
+This website is a demo made for the carpentry workshop.
+
+I love R!
+
+I love ggplot function!
